@@ -1,4 +1,0 @@
-PHP Warning:  file_get_contents(https://api.spark.io/v1/devices/54ff6b066672524824571267/measure1ardu/?access_token=190f01b0033fd757de47b3014d8bb65016738067): failed to open stream: HTTP request failed! HTTP/1.1 408 Request Time-out
- in /opt/lampp/htdocs/project/utils/get2measures.php on line 16
-PHP Warning:  file_get_contents(https://api.spark.io/v1/devices/54ff6b066672524824571267/measure2ph/?access_token=190f01b0033fd757de47b3014d8bb65016738067): failed to open stream: HTTP request failed! HTTP/1.1 408 Request Time-out
- in /opt/lampp/htdocs/project/utils/get2measures.php on line 16
