@@ -25,7 +25,7 @@
 	</head>
 
 	<body>
-		
+		Logging to the dashboard:
 		<form action="logging.php" method="post"> 
 			Login:<br/>
 			<input type="text" name="login" /><br/>
